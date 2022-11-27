@@ -1,3 +1,3 @@
 # cousera-
 coursera course
-theme:minima
+theme: minima
